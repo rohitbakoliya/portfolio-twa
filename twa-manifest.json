@@ -1,0 +1,35 @@
+{
+    "packageId": "com.rohitbakoliya.portfolio",
+    "host": "rohitbakoliya.github.io",
+    "name": "Rohit Bakoliya - Portfolio",
+    "launcherName": "RB",
+    "display": "fullscreen",
+    "themeColor": "#6D83F2",
+    "navigationColor": "#000000",
+    "navigationColorDark": "#000000",
+    "navigationDividerColor": "#000000",
+    "navigationDividerColorDark": "#000000",
+    "backgroundColor": "#6D83F2",
+    "enableNotifications": false,
+    "startUrl": "/?utm_source=android-app",
+    "iconUrl": "https://rohitbakoliya.github.io/icons/icon-512x512.png?v=0897f89670518470a0af65177553a450",
+    "splashScreenFadeOutDuration": 300,
+    "signingKey": {
+        "path": "C:\\Users\\Rohit Bakoliya\\Desktop\\portfolio-twa\\android.keystore",
+        "alias": "android.keystore"
+    },
+    "appVersionName": "1",
+    "appVersionCode": 1,
+    "shortcuts": [],
+    "generatorApp": "bubblewrap-cli",
+    "webManifestUrl": "https://rohitbakoliya.github.io/manifest.webmanifest",
+    "fallbackType": "customtabs",
+    "features": {},
+    "alphaDependencies": {
+        "enabled": false
+    },
+    "enableSiteSettingsShortcut": true,
+    "isChromeOSOnly": false,
+    "orientation": "portrait",
+    "appVersion": "1"
+}

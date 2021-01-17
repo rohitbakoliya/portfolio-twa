@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.rohitbakoliya.portfolio",
+                   "sha256_cert_fingerprints": ["53:77:06:B4:EC:8B:A0:02:BD:90:32:D6:52:9A:14:CB:5F:3A:D8:8A:7C:DF:41:A8:C2:20:F8:B0:42:67:6E:43"] }
+    }]
